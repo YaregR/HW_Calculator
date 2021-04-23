@@ -1,5 +1,5 @@
 let form = document.forms.calculator;
-let resEl = document.querySelector('.result');
+let resEl = document.querySelector('.result span');
 let multiplyBtn = document.querySelector('.multiplyBtn');
 let divideBtn = document.querySelector('.divideBtn');
 let powBtn = document.querySelector('.powBtn');
